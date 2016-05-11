@@ -10,8 +10,9 @@
  2. [Cons of Markdown](#cons)
  3. [Sample Code](#sample)
  4. [Contact Info](#contact)
+ 
+<a id="pros"></a>
 
- <a id="pros"></a>
 ####Pros of Markdown
 +	Readability in plain text 
 +	Format as you type (as opposed to pressing buttons)
