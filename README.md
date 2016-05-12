@@ -48,8 +48,10 @@ Python code returning a list of primes less than n:
 
 >"when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create." **_why**  
 >>This quote was borrowed from a [Sam Kiswani][id], TA.  
->
-"Leave you your power to draw, And I shall have no power to follow..." [^footnote]
+
+
+"
+Leave you your power to draw, And I shall have no power to follow..." [^footnote]
 
 ###[Top](#top) 
 
