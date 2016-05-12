@@ -1,5 +1,4 @@
 <a id="top"></a>
-
 ##[![ANL](https://pbs.twimg.com/profile_images/116507411/Delta_normal.jpg "ANL")](https://www.anl.gov) Samir J Yuja 
 ----
 
@@ -12,8 +11,7 @@
  3. [Sample Code](#sample)
  4. [Contact Info](#contact)
  
-<a id="pros"></a>
-
+ <a id="pros"></a>
 ####Pros of Markdown
 +	Readability in plain text 
 +	Format as you type (as opposed to pressing buttons)
