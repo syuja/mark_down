@@ -51,10 +51,11 @@ Python code returning a list of primes less than n:
 
 
 "
-Leave you your power to draw, And I shall have no power to follow..." <sup>a href="#fn2" id="ref2">2</a></sup>
+Leave you your power to draw, And I shall have no power to follow..." <sup><a href="#fn2" id="ref2">2</a></sup>
 
 ###[Top](#top) 
 
 [id]: https://sskiswani.github.io/ "Sam Kiswani"
-<sup id="fn1"><a href="#ref1" title="jump back"> Billy Shakes, A Midsummer Night's Dream, Act 2, Scene 1</a></sup>
-<sup id="fn2"> <a href="#ref1" title="jump back"> Practice footnote </a></sup>
+<sup id="fn1"><a href="#ref1" title="jump back"> Billy Shakes, A Midsummer Night's Dream, Act 2, Scene 1</a></sup>  
+
+<sup id="fn2"> <a href="#ref2" title="jump back"> Practice footnote </a></sup>
