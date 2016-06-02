@@ -10,7 +10,7 @@
  2. [Cons of Markdown](#cons)
  3. [Sample Code](#sample)
  4. 
- 4. [Contact Info](#contact)
+ 4.[Contact Info](#contact)
  
  <a id="pros"></a>
 ####Pros of Markdown
