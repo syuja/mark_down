@@ -6,9 +6,9 @@
 
 
 ####Table of Contents
- 1. [Pros of Markdown](#pros)
- 2. [Cons of Markdown](#cons)
- 3. [Sample Code](#sample)
+ 1.[Pros of Markdown](#pros)
+ 2.[Cons of Markdown](#cons)
+ 3.[Sample Code](#sample)
  4.[Contact Info](#contact)
  
  <a id="pros"></a>
