@@ -2,7 +2,7 @@
 ##[![ANL](https://pbs.twimg.com/profile_images/116507411/Delta_normal.jpg "ANL")](https://www.anl.gov) Samir J Yuja 
 ----
 
-[![Plus](http://4.bp.blogspot.com/-LUvaFlG26y8/VLPIPu3K-RI/AAAAAAAAATM/wW2u6bkMxa4/s1600/google_button.png)](https://plus.google.com/u/0/)[^footnote1]
+[![Plus](http://4.bp.blogspot.com/-LUvaFlG26y8/VLPIPu3K-RI/AAAAAAAAATM/wW2u6bkMxa4/s1600/google_button.png)](https://plus.google.com/u/0/)<sup><a href="#fn1" id="ref1">1</a></sup>
 
 
 ####Table of Contents
@@ -51,10 +51,10 @@ Python code returning a list of primes less than n:
 
 
 "
-Leave you your power to draw, And I shall have no power to follow..." [^footnote]
+Leave you your power to draw, And I shall have no power to follow..." <sup>a href="#fn2" id="ref2">2</a></sup>
 
 ###[Top](#top) 
 
 [id]: https://sskiswani.github.io/ "Sam Kiswani"
-[^footnote]: Billy Shakes, A Midsummer Night's Dream, Act 2, Scene 1
-[^footnote1]: Practice footnote
+<sup id="fn1"><a href="#ref1" title="jump back"> Billy Shakes, A Midsummer Night's Dream, Act 2, Scene 1</a></sup>
+<sup id="fn2"> <a href="#ref1" title="jump back"> Practice footnote </a></sup>
